@@ -13,4 +13,5 @@ dependencies = [
     "sentencepiece",
     "tqdm",
     "ipykernel>=7.4.0",
+    "ipywidgets",
 ]
